@@ -89,13 +89,13 @@ My ability to engage with clients, coupled with leadership skills, ensures that 
 
 <h4 style="color:skyblue;"> Azure DevOps Contribution at Data Science Dojo for year 2024 </h4>
 
-<img src="https://github.com/user-attachments/assets/58a0fad3-dae9-4aa6-9ce6-ccd1f34c3fcc" align="left" style="width: 100%; height: 280px" />
+<img src="https://github.com/user-attachments/assets/58a0fad3-dae9-4aa6-9ce6-ccd1f34c3fcc" align="left" style="width: 1000px; height: 300px" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=saadshaikh3&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=saadshaikh3&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 80%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadshaikh3&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadshaikh3&hide_border=true&layout=compact" align="left" style="width: 80%" />
 
 </td></tr></table>  
 
