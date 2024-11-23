@@ -12,13 +12,27 @@
 
 
 ### Glad to see you here!  
-I'm an accomplished AI and Software Engineer with a rich background in transforming complex challenges into streamlined solutions, with a focus on Software Engineering, Azure Cloud, Data Analytics and DevOps.
+I’m an AI Software Engineer with a 𝗠𝗮𝘀𝘁𝗲𝗿’𝘀 in 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 from the UK. Here’s a quick snapshot of my expertise:
 
-Throughout my journey, I've steered the development and deployment of versatile products, with CI/CDs, belonging to different techs such as Generative AI LLMs, Django Python, AngularJS, ReactJS, NextJS and TS, ASP .NET C#. Since I am partly a data engineer, I have worked with different SQL and NoSQL databases. I have architected robust database schemas on MSSQL Server, PostgreSQL, and CosmosDB. I am aware of the data orchestration and design tools on Azure, such as Azure Data Factory and Azure Synapse. Furthermore, I am known to create interesting and eye-pleasing Power BI dashboards and reports, one of the many reasons why I also taught in Power BI training offered by Data Science Dojo.
+💻 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗘𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲
 
-I have led engineering teams for international and internal SaaS products. My favorite product that I have built so far, for which I was also the technical team lead, is Ejento AI - An LLM Generative AI application for creating customizable AI agents and agentic workflows to talk to your private data from MS Teams, data from SharePoint, One Lake directories, YouTube, Websites and many more.
+- Proficient in Generative AI (LLMs), Django Python, ReactJS, ASP.NET C#, and PowerShell
+- Skilled in 𝗔𝘇𝘂𝗿𝗲 cloud, specializing in building scalable 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 architectures and automating workflows
+- Experienced in directory administration within Azure as Global Admin
+- Expert in 𝗦𝗤𝗟 & 𝗡𝗼𝗦𝗤𝗟 databases like MSSQL Server, PostgreSQL, and CosmosDB
+- Hands-on experience with ETL orchestration tools such as Azure Data Factory V2
 
-My ability to engage with clients, coupled with leadership skills, ensures that technical solutions align seamlessly with organizational goals. As evidenced by my Azure certifications, I'm not just experienced, but continually hungry to learn and grow. I approach each project with a passion for excellence and an unyielding commitment to staying at the forefront of technological advancements.  
+🚀 𝗖𝗮𝗿𝗲𝗲𝗿 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀
+
+- 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗟𝗲𝗮𝗱 for 𝗘𝗷𝗲𝗻𝘁𝗼 𝗔𝗜: A Generative AI platform enabling customizable AI agents to interact with private data sources like MS Teams, SharePoint, YouTube, and more
+- Successfully developed and deployed SaaS products with CI/CD pipelines and architected 𝗗𝗲𝘃𝗢𝗽𝘀 workflows for live products
+- Designed visually stunning 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜 dashboards for data analytics for a governmental institution and delivered an online Power BI training as well
+
+🎯 𝗟𝗲𝗮𝗱𝗲𝗿𝘀𝗵𝗶𝗽 & 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀
+
+- Led engineering teams to deliver high-impact, scalable solutions
+- 4𝘅 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗲𝗱, showcasing my commitment to staying at the forefront of technological advancements
+- Kicked off numerous projects and solution engagements. Known for aligning technical solutions with business goals while fostering strong client relationships
   
 
 <br/>  
