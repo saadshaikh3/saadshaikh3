@@ -105,7 +105,7 @@ I’m an AI Software Engineer with a 𝗠𝗮𝘀𝘁𝗲𝗿’𝘀 in 𝗔𝗿
 
 <img src="https://github.com/user-attachments/assets/58a0fad3-dae9-4aa6-9ce6-ccd1f34c3fcc" align="left" style="width: 1000px; height: 300px" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=saadshaikh3&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 80%" />
+<img src="https://github-readme-stats.vercel.app/api?username=saadshaikh3&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left" style="width: 80%" />
 
 </td><td valign="top" width="50%">
 
