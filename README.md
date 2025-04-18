@@ -12,19 +12,20 @@
 
 
 ### Glad to see you here!  
-I’m an AI Software Engineer with a 𝗠𝗮𝘀𝘁𝗲𝗿’𝘀 in 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 from the UK. Here’s a quick snapshot of my expertise:
+I’m a Senior AI Software Engineer with a 𝗠𝗮𝘀𝘁𝗲𝗿’𝘀 in 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 from the UK. Here’s a quick snapshot of my expertise:
 
 💻 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗘𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲
 
-- Proficient in Generative AI (LLMs), Django Python, ReactJS, ASP.NET C#, and PowerShell
-- Skilled in 𝗔𝘇𝘂𝗿𝗲 cloud, specializing in building scalable 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 architectures and automating workflows
-- Experienced in directory administration within Azure as Global Admin
-- Expert in 𝗦𝗤𝗟 & 𝗡𝗼𝗦𝗤𝗟 databases like MSSQL Server, PostgreSQL, and CosmosDB
-- Hands-on experience with ETL orchestration tools such as Azure Data Factory V2
+- Proficient in Generative AI (LLMs), FastApi, Django Python, ReactJS, ASP.NET Core C#, and PowerShell
+- Skilled in 𝗔𝘇𝘂𝗿𝗲 cloud and Azure AI services, specializing in building scalable 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 architectures, automating workflows and deploying AI models
+- Experienced in directory administration and infrastructure management with 𝐈𝐚𝐚𝐂 within Azure
+- Expert in 𝗦𝗤𝗟 & 𝗡𝗼𝗦𝗤𝗟 databases like MSSQL Server, PostgreSQL, MongoDB and CosmosDB
+- Hands-on experience with ETL orchestration tools for 𝐝𝐚𝐭𝐚 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 such as Azure Data Factory V2 and 𝐝𝐚𝐭𝐚 𝐚𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 tools such as Power BI
 
 🚀 𝗖𝗮𝗿𝗲𝗲𝗿 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀
 
 - 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗟𝗲𝗮𝗱 for 𝗘𝗷𝗲𝗻𝘁𝗼 𝗔𝗜: A Generative AI platform enabling customizable AI agents to interact with private data sources like MS Teams, SharePoint, YouTube, and more
+- 𝐒𝐩𝐞𝐚𝐫𝐡𝐞𝐚𝐝𝐞𝐝 𝐀𝐈 𝐛𝐚𝐜𝐤𝐞𝐧𝐝 and agentic enablement for 𝐍𝐨𝐞𝐦𝐚 𝐀𝐈, a reimagined agile AI platform supporting real-time, multilingual communication and instant media solutions
 - Successfully developed and deployed SaaS products with CI/CD pipelines and architected 𝗗𝗲𝘃𝗢𝗽𝘀 workflows for live products
 - Designed visually stunning 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜 dashboards for data analytics for a governmental institution and delivered an online Power BI training as well
 
@@ -33,7 +34,6 @@ I’m an AI Software Engineer with a 𝗠𝗮𝘀𝘁𝗲𝗿’𝘀 in 𝗔𝗿
 - Led engineering teams to deliver high-impact, scalable solutions
 - 4𝘅 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗲𝗱, showcasing my commitment to staying at the forefront of technological advancements
 - Kicked off numerous projects and solution engagements. Known for aligning technical solutions with business goals while fostering strong client relationships
-  
 
 <br/>  
 
